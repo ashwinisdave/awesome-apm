@@ -36,6 +36,7 @@ A list of awesome APM (Application Performance Monitoring) tools & products (com
 * [Logit.io](https://logit.io/)
 * [Lumigo](https://lumigo.io/)
 * [ManageEngine](https://www.manageengine.com/products/applications_manager/java-runtime-monitoring.html)
+* [Middleware](https://middleware.io/)
 * [MoSKito](http://www.moskito.org/)
 * [New Relic](https://newrelic.com/)
 * [OverOps](https://www.overops.com/)
